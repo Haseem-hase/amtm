@@ -1,0 +1,198 @@
+*{
+}
+
+#first{
+    width: 100%;
+    height: 500px;
+background-image: url(https://karunaanimalwelfare.org/wp-content/uploads/2022/06/homemobbanner3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 60px;
+}
+.frst{
+    width: 38%;
+    height: 350px;
+    background-color:azure;
+    border-radius: 10px;
+    margin-left: 500px;
+    padding: 30px;
+ }
+
+
+#animal{
+    margin-top: 40px;
+}
+
+#treatment{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#ss{
+    text-align: center;
+    margin: 65px;
+    font-size: 3.8rem;
+
+}
+#treated{
+    margin: 65px;
+    text-align: center;
+    font-size: 3.8rem;
+}
+#pp{
+    height: 20px;
+    width: 35%;
+    margin-top: -140px;
+}
+
+#but{
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+#but:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+.rowss{
+    background-color: grey;
+    width: 100%;
+    height: 400px;
+  
+    
+}
+
+.colss{
+    width: 20%;
+    height: 400px;
+}
+
+.smoky{
+    height:800px;
+    width: 100%;
+    background-color: rgb(220, 215, 215);
+    margin-top: 50px;
+}
+#sr{
+    font-size:large;
+    font-weight: 900;
+    margin: 20px;
+}
+.vv{
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.vv:hover{
+    color: rgb(162, 162, 10);
+}
+.bb{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.bb:hover{
+    text-decoration: underline;
+    color: brown;
+}
+.nn{
+    color: grey;
+}
+.cont{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(225, 170, 5);
+    margin-top: 30px;
+}
+.roww{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.coll1{
+    width: 30%;
+    height: 450px;
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC5Li4wPwt6ZBdrTU7TStxwBKMwWNVExdgvU7k-On-0vvHLeSp);
+    background-position: center;
+    border: 2px solid black;
+
+}
+
+.coll2{
+    width: 30%;
+    height: 450px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid black;
+
+}
+
+.coll3{
+    width: 30%;
+    height: 450px;
+    background-image: url(https://www.hindustantimes.com/ht-img/img/2023/10/04/1600x900/old_dog_1696405723659_1696405737000.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+
+}
+
+#qwe{
+    margin: 25px;
+    font-weight: 600;
+}
+.hh{
+    margin-top: 300px;
+    margin-left: 20px;
+
+
+}
+footer{
+    background-color: rgb(149, 147, 147);
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.rowf{
+    width: 50%;
+    height: 700px;
+    padding: 30px;
+}
+.colf{
+    width: 20%;
+    padding: 30px;
+    margin-left: 20px;
+    color: white;
+    float: left;
+}
+#kk{
+    margin-bottom: 20px;
+}
+footer li{
+    list-style: none;
+    margin-left: -32px;
+    margin-top: 10px;
+}
+footer li:hover{
+    color: yellow;
+}
+.mm{
+    margin-left: 20px;
+}
+.mm:hover{
+    color: white;
+}
+.qq{
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+.qq:hover{
+    color: yellow;
+}
